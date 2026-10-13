@@ -26,23 +26,6 @@ Each guide covers:
 
 ---
 
-##  Migration Guides
-
-| # | Web2 Service | Web3 Alternative | Category |
-|:--|--------------|------------------|----------|
-| 01 | [Twitter](./01-twitter-to-lens.md) | Lens Protocol / Farcaster | Social Media |
-| 02 | [Spotify](./02-spotify-to-audius.md) | Audius / Arweave | Music Streaming |
-| 03 | [YouTube](./03-youtube-to-theta.md) | Theta / Livepeer | Video Streaming |
-| 04 | [Google Drive](./04-google-drive-to-ipfs.md) | IPFS / Filecoin / Arweave | Cloud Storage |
-| 05 | [Facebook](./05-facebook-to-decentralized-social.md) | Lens / Mastodon / Bluesky | Social Network |
-| 06 | [Airbnb](./06-airbnb-to-web3.md) | Smart Contracts + NFTs | Real Estate |
-| 07 | [Uber](./07-uber-to-web3.md) | Decentralized Ride Sharing | Transportation |
-| 08 | [Medium](./08-medium-to-mirror.md) | Mirror.xyz / Paragraph | Publishing |
-| 09 | [PayPal](./09-paypal-to-crypto.md) | Crypto Wallets + Stablecoins | Payments |
-| 10 | [AWS](./10-aws-to-decentralized-cloud.md) | Akash / Golem / Render | Cloud Computing |
-
----
-
 ##  How to Use
 
 Each guide follows this structure:

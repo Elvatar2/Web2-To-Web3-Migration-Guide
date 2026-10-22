@@ -67,7 +67,7 @@ Contributions are welcome! If you have a migration guide to add:
 
 I'm always open to discussing Web3 architecture, decentralization, or new collaborations.
 
-- 📧 **Email:** [elvatar24@email.com](mailto:elvatar24@email.com)
+- 📧 **Email:** [elvatar24@Gmail.com](mailto:elvatar24@Gmail.com)
 - ✈️ **Telegram:** [@Elvatar](https://t.me/Elvatar)
 
 ---

@@ -67,7 +67,7 @@ Contributions are welcome! If you have a migration guide to add:
 
 I'm always open to discussing Web3 architecture, decentralization, or new collaborations.
 
-- 📧 **Email:** [elvatar24@email.com](mailto:elvatar24@email.com)
+- 📧 **Email:** [elvatar24@Gmail.com](mailto:elvatar24@Gmail.com)
 - ✈️ **Telegram:** [@Elvatar](https://t.me/Elvatar)
 
 ---
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. Feel free to use these guides in
 <p align="center">
   <strong>Built with a passion for decentralization</strong><br>
   <em>By [@Elvatar](https://github.com/Elvatar2)</em>
-</p>
+</palign=>
